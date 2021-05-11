@@ -27,7 +27,7 @@
 
 
 
-"Onesignalkey": "1d7a43a3-a55e-45ac-9702-68e979a77b12",
+"Onesignalkey": "a665a769-dc54-4b29-bf18-b14d8044f432",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
