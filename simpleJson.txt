@@ -2,7 +2,7 @@
 "version": "FreeTricks v2",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "1",
+		"Frequence": "2",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
 		"specificationAds": "0",
 "rate us explication": "chhal men lancement 3ada iban rate",
@@ -31,7 +31,7 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "173280458012238_173282271345390",
+	"FanInter": "173280458012238_263678002305816",
 	"FanBanner": "173280458012238_173281481345469",
 	"FanReward": "173280458012238_173282694678681",
 
