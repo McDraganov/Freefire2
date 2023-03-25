@@ -2,9 +2,9 @@
 "version": "FreeTricks v2",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "3",
+		"Frequence": "5",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
-		"specificationAds": "0",
+		"specificationAds": "1",
 "rate us explication": "chhal men lancement 3ada iban rate",
 	"RateUsPop": "2",
 
@@ -18,10 +18,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "",
-	"interId": "",
-	"bannerId": "",
-	"rewardadmob": "",
+	"AdmobAppId": "ca-app-pub-5563003601543641~8796364525",
+	"interId": "ca-app-pub-5563003601543641/1267823329",
+	"bannerId": "ca-app-pub-5563003601543641/5487674906",
+	"rewardadmob": "ca-app-pub-5563003601543641/1267823329",
 
 
 
@@ -31,9 +31,9 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "173280458012238_173282271345390",
-	"FanBanner": "173280458012238_173281481345469",
-	"FanReward": "173280458012238_173282694678681",
+	"FanInter": "",
+	"FanBanner": "",
+	"FanReward": "",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
